@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "351025293902",
+    "project_id": "coffe-app-ab64c",
+    "storage_bucket": "coffe-app-ab64c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351025293902:android:e2758e31f7b2bd6ff0f11f",
+        "android_client_info": {
+          "package_name": "com.example.coffe_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG-YfePTUJ88D6ewTpl7Gkv8sDkipHG4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
